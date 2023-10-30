@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143995660921",
+    "project_id": "examen-paulbriceno",
+    "storage_bucket": "examen-paulbriceno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143995660921:android:1df87267a2148ae0f482a8",
+        "android_client_info": {
+          "package_name": "com.example.examen_paul_briceno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZ0t-2qf2Hnm1wBy7Uzi9WpBhNiUrUiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
